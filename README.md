@@ -1,6 +1,6 @@
 # Julien Jovy - Developer & Instructor
 
-Welcome to my GitHub! I am a developer with expertise in PHP, Symfony, and Python. I enjoy building web applications and sharing knowledge with others. This repository acts as my portfolio and CV, showcasing my work and open-source contributions.
+Welcome to my GitHub! I am a developer with expertise in PHP, Laravel, and React. I enjoy building web applications and sharing knowledge with others. This repository acts as my portfolio and CV, showcasing my work and open-source contributions.
 
 ## Skills & Technologies
 
