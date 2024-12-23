@@ -1,31 +1,59 @@
+
 # Julien Jovy - Developer & Instructor
 
-Welcome to my GitHub! I am a developer with expertise in PHP, Laravel, and React. I enjoy building web applications and sharing knowledge with others. This repository acts as my portfolio and CV, showcasing my work and open-source contributions.
+Welcome to my GitHub! I'm **Julien Jovy**, a developer and instructor passionate about crafting efficient solutions and sharing knowledge. I specialize in **PHP**, **Symfony**, and **React**, while exploring innovative workflows and tools.
 
-## Skills & Technologies
+This repository showcases a mix of personal projects and contributions, reflecting my technical expertise and dedication to continuous learning.
 
-- **Languages**: PHP, Python, JavaScript, SQL
-- **Frameworks**: Symfony, Laravel, React
-- **Tools**: Git, Docker, AWS, PostgreSQL
-- **Other**: DevOps, Agile, CI/CD
+---
 
-## Contact
+## 🔧 Skills & Technologies
 
-- [LinkedIn](https://www.linkedin.com/in/julienjovy/)
+### **Languages**
+- PHP, JavaScript, SQL
 
-Thanks for visiting!
+### **Frameworks & Libraries**
+- Symfony, Laravel, React
 
-<!--
-**julienjovy/julienjovy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Tools & Platforms**
+- Git, Docker, PostgreSQL, Railway
 
-Here are some ideas to get you started:
+### **Creative Solutions**
+- Scene management using ScriptableObjects
+- Modular and scalable web application architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Recent Projects
+
+### **Sagittarius A***
+A personal project featuring a **scene management system** designed with ScriptableObjects to optimize workflows in Unity projects.
+
+### **Portfolio Website**
+An interactive showcase of my skills, experience, and projects, built with modern web technologies for performance and accessibility.
+
+### **Educational Contributions**
+I create and manage hands-on learning projects in Symfony and React, focusing on topics like:
+- API Development
+- Entity Relationships & Database Design
+- Seamless Frontend-Backend Integration
+
+---
+
+## 🌱 Educator Approach
+
+As an instructor, I emphasize:
+- **Practicality**: Projects that simulate real-world scenarios.
+- **Autonomy**: Encouraging students to experiment and solve problems independently.
+- **Clarity**: Structured guidance with a focus on essential skills.
+
+---
+
+## 📬 Let's Connect
+
+- **LinkedIn**: [Julien Jovy](https://www.linkedin.com/in/julienjovy/)
+- **Email**: [contact@julienjovy.fr](mailto:julien@golpert.dev)
+
+---
+
+Thank you for visiting! Explore my repositories, and don’t hesitate to reach out for collaborations or discussions.
