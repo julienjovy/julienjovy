@@ -1,7 +1,7 @@
 
 # Julien Jovy - Developer & Instructor
 
-Welcome to my GitHub! I'm **Julien Jovy**, a developer and instructor passionate about crafting efficient solutions and sharing knowledge. I specialize in **PHP**, **Symfony**, and **React**, while exploring innovative workflows and tools.
+Welcome to my GitHub! I'm **Julien Jovy**, a developer and instructor passionate about crafting efficient solutions and sharing knowledge. I specialize in **PHP**, **Laravel**, and **React**, while exploring innovative workflows and tools.
 
 This repository showcases a mix of personal projects and contributions, reflecting my technical expertise and dedication to continuous learning.
 
